@@ -53,24 +53,27 @@ This program provides an intuitive graphical interface to organize photos and vi
 3. **Destination Folder**: Select the folder where organized files will be saved.
 4. **Click** `Start Organizing` to begin the process.
 5. **If a file conflict occurs**:
- `Skip`: Move to the next file without resolving the conflict.
- `Rename`: Automatically rename the file (by adding "1" to the end of the name right before the file extention) to avoid overwriting.
+   
+     -`Skip`: Move to the next file without resolving the conflict.
+   
+     -`Rename`: Automatically rename the file (by adding "1" to the end of the name right before the file extention) to avoid overwriting.
 
 ---
 
 ## GUI Layout
 - Source Folder Input:
-  -Text field and `Browse` button to select the source directory.
+     - Text field and `Browse` button to select the source directory.
 - Destination Folder Input:
-  -Text field and "Browse" button to select the destination directory.
+     - Text field and "Browse" button to select the destination directory.
 - File Preview Area:
-  Displays the current file and conflicting file (if applicable).
+     - Displays the current file and conflicting file (if applicable).
 - File Info Panel:
-  Shows the file name and size for the current and conflicting files.
+     -Shows the file name and size for the current and conflicting files.
 - Control Buttons:
-  -Start Organizing: Begins file processing.
-  -Skip: Skips a file in conflict.
-  -Rename: Renames a file in conflict to resolve it.
+     -`Start Organizing`: Begins file processing.
+     -`Skip`: Skips a file in conflict.
+     -`Rename`: Renames a file in conflict to resolve it.
+  
 ---
 
 ## Notes
@@ -83,6 +86,12 @@ The app creates necessary subfolders (`Year/Month`) in the destination folder.
 ## License
 This program is open-source and provided under the MIT License.
 
+---
 
+**THIS SCRIPT IS TESTED ONLY ON WINDOWS 10 for now but should work on LINUX, TEST WITH SMALL BATCHES FIRST. I SUGGEST TO COPY THE FILES FROM THE ORIGINAL SOURCE(PHONE, CAMERA, FLASH DRIVE, EXTERNAL DRIVE) SORT THEM, CHECK THE FILES AND THEN DELETE THE ORIGINAL FILES**
+
+**You can use this software at your own risk. I am not responsible for any data loss, file corruption, or other issues that may occur while using this program. Please make sure to back up your files before running the application.**
+
+I'll add the .exe file for the lazy ones.
 
 Enjoy organizing your files efficiently with Photos and Clips Organizer! 😊
