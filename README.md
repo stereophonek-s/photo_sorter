@@ -46,7 +46,7 @@ This program provides an intuitive graphical interface to organize photos and vi
 ## How to Use
 1. Run the script:
    ```bash
-   python organizer.py
+   python photo_sorter.py
    ```
 
 2. **Source Folder**: Select the folder containing files to organize.
