@@ -84,7 +84,7 @@ The app creates necessary subfolders (`Year/Month`) in the destination folder.
 ---
 
 ## License
-This program is open-source and provided under the MIT License.
+This program is open-source and provided under the MIT License (Non-Commercial)
 
 ---
 
