@@ -92,6 +92,6 @@ This program is open-source and provided under the MIT License.
 
 **You can use this software at your own risk. I am not responsible for any data loss, file corruption, or other issues that may occur while using this program. Please make sure to back up your files before running the application.**
 
-I'll add the .exe file for the lazy ones.
+Added installer with a joke in the eula 
 
 Enjoy organizing your files efficiently with Photos and Clips Organizer! 😊
